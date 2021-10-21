@@ -38,7 +38,7 @@ Technologies used:
 ---
 ### Github stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-HuanWu&count_private=true)]() [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-HuanWu&count_private=true)](https://github.com/Yu-HuanWu/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-HuanWu&count_private=true)](https://ewetube.herokuapp.com/#/404page) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-HuanWu&count_private=true)](https://ewetube.herokuapp.com/#/404page)
 
 ---
 ### Reach me at:
