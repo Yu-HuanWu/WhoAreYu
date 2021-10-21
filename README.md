@@ -36,9 +36,7 @@ Technologies used:
 
 ### Github stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-HuanWu&count_private=true)](https://github.com/Yu-HuanWu/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-HuanWu&count_private=true)](https://github.com/Yu-HuanWu/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-HuanWu&count_private=true)](https://github.com/Yu-HuanWu/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-HuanWu&count_private=true)](https://github.com/Yu-HuanWu/github-readme-stats)
 
 ### Reach me at:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-huan-wu/)
