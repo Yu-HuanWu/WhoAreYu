@@ -7,14 +7,9 @@ I think my projects are pretty neat, check them out:
 ### Octet Stabilizer
 
 <a href="https://github.com/Yu-HuanWu/Octet_stabilizer#readme" title="Octet" target="_blank">
-    <img alt src="assets/img/icons8-react-native-48.png" style="max-width: 100%;">
-</a>
-
-### I recently working with ...
-
-<a href="https://reactjs.org" title="React" rel="nofollow">
     <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="max-width: 20px">
 </a>
+
 
 <a href="https://www.javascript.com/" title="JavaScript" rel="nofollow">
     <img alt src="assets/img/icons8-javascript-48.png" style="max-width: 100%;">
