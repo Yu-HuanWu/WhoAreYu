@@ -7,26 +7,21 @@ I think my projects are pretty neat, check them out:
 ### Octet Stabilizer
 
 <a href="https://github.com/Yu-HuanWu/Octet_stabilizer#readme" title="Octet" target="_blank">
-    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="width: 100px;">
+    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="width: 300px;">
 </a>
 
+Technologies used:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<a href="https://www.javascript.com/" title="JavaScript" rel="nofollow">
-    <img alt src="assets/img/icons8-javascript-48.png" style="max-width: 100%;">
+### EweTube
+<a href="https://github.com/Yu-HuanWu/EweTube#readme" title="Ewetube" target="_blank">
+    <img alt src="https://github.com/Yu-HuanWu/EweTube/blob/main/app/assets/images/ewetube.png?raw=true" style="width: 300px;">
 </a>
 
-<a href="https://www.postgresql.org/docs/" title="PostgresSQL" rel="nofollow">
-    <img alt src="assets/img/icons8-postgresql-48.png" style="max-width: 100%;">
+### TagAlongs
+<a href="https://github.com/Yu-HuanWu/TagAlongs#readme" title="Tagalongs" target="_blank">
+    <img alt src="https://github.com/Yu-HuanWu/TagAlongs/blob/main/frontend/public/tagalongsImg.png?raw=true" style="width: 300px;">
 </a>
-
-<a href="https://rubyonrails.org/" title="RubyOnRails" rel="nofollow">
-    <img alt src="assets/img/icons8-ruby-on-rails-64.png" style="max-width: 100%;">
-</a>
-
-<a href="https://www.mongodb.com/" title="MongoDB" rel="nofollow">
-    <img alt src="assets/img/icons8-mongodb-48.png" style="max-width: 100%;">
-</a>
-
 
 
 ### Github stats:
