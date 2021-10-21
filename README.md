@@ -13,7 +13,7 @@ I think my projects are pretty neat, check them out:
 ### I recently working with ...
 
 <a href="https://reactjs.org" title="React" rel="nofollow">
-    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="max-width: 100px">
+    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="max-width: 20px">
 </a>
 
 <a href="https://www.javascript.com/" title="JavaScript" rel="nofollow">
