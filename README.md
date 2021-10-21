@@ -7,7 +7,7 @@ I think my projects are pretty neat, check them out:
 ### Octet Stabilizer
 
 <a href="https://github.com/Yu-HuanWu/Octet_stabilizer#readme" title="Octet" target="_blank">
-    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="max-width: 20px">
+    <img alt src="https://github.com/Yu-HuanWu/Octet_stabilizer/blob/main/octet.png?raw=true" style="width: 20px;">
 </a>
 
 
