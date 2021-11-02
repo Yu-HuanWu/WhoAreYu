@@ -5,7 +5,20 @@
 */
 
 (function($) {
+	console.log(
+`eterm##$:BKUW300PS345672: astu -ls ./root/fsociety/ -a readme.txt
+eterm##$:BKUW300PS345672: fsociety00.dat readme.txt
+eterm##$:BKUW300PS345672: more readme.txt
+--------- readme.txt ----------
 
+     	LEAVE ME HERE
+
+-------------------------------
+eterm##$:BKUW300PS345672: sudo kill 4
+eterm##$:BKUW300PS345672: astu -rm -norecycle /root/ fsociety/
+eterm##$:BKUW300PS345672: Are you sure you want to delete '/root/ fsociety/'?
+eterm##$:BKUW300PS345672: Input Y to delete, N to cancecl:
+`);
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
