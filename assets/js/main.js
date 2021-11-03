@@ -17,7 +17,7 @@ eterm##$:BKUW300PS345672: more readme.txt
 eterm##$:BKUW300PS345672: sudo kill 4
 eterm##$:BKUW300PS345672: astu -rm -norecycle /root/ fsociety/
 eterm##$:BKUW300PS345672: Are you sure you want to delete '/root/ fsociety/'?
-eterm##$:BKUW300PS345672: Input Y to delete, N to cancecl:
+eterm##$:BKUW300PS345672: Input Y to delete, N to cancel:
 `);
 	var	$window = $(window),
 		$body = $('body'),
