@@ -1,6 +1,6 @@
 ## My name is Yu-Huan Wu, but you can call me Yu Huan Wu.
 
-I am a full time full-stack software engineer (part time fool-stack) who is passionate about lifting the underserved through education. 
+I am a full time fullstack software engineer (part time fool-stack) who is passionate about lifting the underserved through education. 
 
 I think my projects are pretty neat, check them out:
 
