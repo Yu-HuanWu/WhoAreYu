@@ -1,6 +1,6 @@
 ## My name is Yu-Huan Wu, but you can call me Yu Huan Wu.
 
-I am an associate software engineer who is passionate about lifting the underserved through education. 
+I am an associate software engineer in SF who is passionate about lifting the underserved through education. 
 
 I think my projects are pretty neat, check them out:
 
