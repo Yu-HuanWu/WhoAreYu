@@ -2,7 +2,7 @@
 
 I am an associate software engineer in the San Francisco Bay Area. I used to teach sciences to future scientists and engineers. 
 
-I think my projects are pretty neat, check them out:
+I think my projects are pretty neat, although some of them aren't live anymore. Check them out:
 
 <details closed>
   <summary>Octet Stabilizer ⚛️</summary>
