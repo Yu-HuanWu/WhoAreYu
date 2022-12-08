@@ -19,7 +19,7 @@ Technologies used:
 </details>
 
 <details closed>
-  <summary>EweTube 🐑</summary>
+  <summary>EweTube 🐑 (deprecated)</summary>
   <br>
 
 <a href="https://github.com/Yu-HuanWu/EweTube#readme" title="Ewetube" target="_blank">
@@ -33,7 +33,7 @@ Technologies used:
 </details>
   
 <details closed>
-  <summary>TagAlongs 🍪</summary>
+  <summary>TagAlongs 🍪(deprecated)</summary>
   <br>
 
 <a href="https://github.com/Yu-HuanWu/TagAlongs#readme" title="Tagalongs" target="_blank">
