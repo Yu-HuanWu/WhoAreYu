@@ -1,6 +1,6 @@
 ## My name is Yu-Huan Wu, but you can call me Yu Huan Wu.
 
-I am an associate software engineer in the San Francisco Bay Area. I used to teach sciences to the future scientists, doctors, and engineers. 
+I am an associate software engineer in the San Francisco Bay Area. I used to teach sciences to future scientists, doctors, and engineers. 
 
 I think my projects are pretty neat, although some of them aren't live anymore. Check them out:
 
