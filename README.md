@@ -50,7 +50,7 @@ Technologies used:
   <summary>BioCkicker 🦠</summary>
   <br>
 
-<a href="https://github.com/Yu-HuanWu/biockicker" title="biockicker" target="_blank">
+<a href="(https://yu-huanwu.github.io/bioclicker/" title="biockicker" target="_blank">
     <img alt src="https://github.com/Yu-HuanWu/EweTube/blob/main/app/assets/images/ewetube.png?raw=true" style="width: 300px;">
 </a>
 
