@@ -47,7 +47,7 @@ Technologies used:
 </details>
 
 <details closed>
-  <summary>BioCkicker 🦠</summary>
+  <summary>BioCkicker 🦠 (proof of concept)</summary>
   <br>
 
 <a href="https://yu-huanwu.github.io/bioclicker/" title="biockicker" target="_blank">
